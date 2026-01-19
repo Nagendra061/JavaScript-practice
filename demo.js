@@ -1,5 +1,5 @@
-// console.log('Hello World')
-// console.log('nagendra varma')
+console.log('Hello World')
+console.log('nagendra varma')
 // this is single line comment
 const name = "nagendra varma"
 console.log(name)
@@ -15,15 +15,3 @@ console.log(typeof false)
 if (true) {
     console.log('Hello World')
 }
-
-if (10 > 5) {
-    console.log('Nagendra is greater than 5')
-}
-
-if (10 < 5) {
-    console.log('Nagendra is smaller than 5 or not')
-}
-
-if (10 == 5) {
-    console.log('Nagendra is equal to 5 or not')
-}   
