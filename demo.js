@@ -12,3 +12,6 @@ console.log(typeof 22)
 console.log(typeof 1.5)
 console.log(typeof true)
 console.log(typeof false)
+if (true) {
+    console.log('Hello World')
+}
