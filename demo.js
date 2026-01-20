@@ -15,3 +15,4 @@ console.log(typeof false)
 if (true) {
     console.log('Hello World')
 }
+document.getElementById('heading').innerHTML = 'Aswan'
