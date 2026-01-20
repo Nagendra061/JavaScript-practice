@@ -15,4 +15,13 @@ console.log(typeof false)
 if (true) {
     console.log('Hello World')
 }
-document.getElementById('heading').innerHTML = 'Aswan'
+else {
+    console.log('Bye World')
+}
+
+
+if (100 > 200) {
+    console.log('Hello World')
+} else {
+    console.log('Bye World')
+}
